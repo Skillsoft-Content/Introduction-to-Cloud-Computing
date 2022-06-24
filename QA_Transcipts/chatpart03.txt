@@ -1,0 +1,49 @@
+04:28:55	Christianne Melet Mabeta:	sorry can't stay till 3pm thought it was 3hrs training.
+04:29:50	Christianne Melet Mabeta:	thank very much for this opportunity 
+04:31:36	Eian Clair:	Please note, Bootcamp sessions are recorded for your convenience.Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'
+04:36:41	David Robichaud:	I just wanted to mention that we have a short survey that we would like you to complete after the session. We would love to get your feedback on your bootcamp experience and get input on any areas or topics that you would like to see covered in a future bootcamp.Survey URL:https://surveys.skillsoft.com/jfe/form/SV_1Hb2mSZpvbE0vu6
+04:39:42	Rodwane El idrissi:	sure
+04:41:19	Michael Shannon:	WAF
+04:46:25	Bharathi Thirumalasetty:	Did we get any certification after this course?
+04:47:21	siza.zhanje:	C-za
+04:47:34	Eian Clair:	No, we are not currently able to provide certificates of completion for externally linked content, such as these Zoom sessions.If you require a certificate of completion, I would suggest running the Replay video in the Bootcamp Channel in Percipio once it becomes available.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'
+04:50:16	Bharathi Thirumalasetty:	thanks !!
+04:51:24	Eian Clair:	You are most welcome.
+04:51:52	Rodwane El idrissi:	Bharathi Thirumalase...
+To
+Everyone
+20:33:16
+
+Did we get any certification after this course?
+thanks !!      what was the answer ??? JUST FOR MY PERSONNEL INFORMATION I WANT TO NOW TOO 
+04:52:25	Eian Clair:	No, we are not currently able to provide certificates of completion for externally linked content, such as these Zoom sessions.If you require a certificate of completion, I would suggest running the Replay video in the Bootcamp Channel in Percipio once it becomes available.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'
+04:53:23	siza.zhanje:	there's an answer in Q&A
+04:53:32	Rodwane El idrissi:	thanks for the details 
+04:56:10	Rodwane El idrissi:	but i am currently watching the course in the percipio live course (i registered before 2 wekks ago ) 
+04:56:39	Rodwane El idrissi:	i'am not watching in zoom
+04:57:35	Ila David:	i am also watching from Percipio live
+04:57:48	David Robichaud:	You are in a Zoom session, you were linked out to this session from the asset on your training site
+05:11:12	Michael Shannon:	Azure Sentinel
+05:12:41	David Robichaud:	Thanks everyone for attending this week’s Introduction to Cloud Computing Bootcamp. Great group! If you haven't already, please take a couple minutes after the session to fill out the survey.Survey URL:https://surveys.skillsoft.com/jfe/form/SV_1Hb2mSZpvbE0vu6
+05:12:48	 :	It was wonderful session!
+05:12:51	siza.zhanje:	Thanks Michael. Very insightful.
+05:13:24	Baburao Kashavatri:	Thanks for the session.
+05:13:25	Sushant Mishra:	Thanks.. great session
+05:13:48	Hawk Ballard:	Thank you, very informative.
+05:13:53	null null:	Thanks for the session :)
+05:14:04	Pratik Asnani:	thanks for the session :)
+05:14:12	Albert Ventura:	Thank you
+05:14:13	Rodwane El idrissi:	what is the name of the certification  , can you write it? 
+05:14:14	Rowena Palima:	Thank you
+05:14:15	Rodwane El idrissi:	please
+05:14:16	Sri Kanduri:	Thank you for this session!
+05:14:17	 :	Thank you all
+05:14:17	Joseph Laspina:	thanks very much!
+05:14:18	Zabiulla Khan:	Excellent Session, very good objectivized learning for Cloud beginners. Thank you for organizing
+05:14:21	null null:	Thank you
+05:14:21	Cody Swaney:	Thank you! 
+05:14:22	Derek Mo:	Thank you
+05:14:23	Ila David:	Thank you for the session
+05:14:24	Ravikumar Medarametla:	Thanks for the session.
+05:14:24	Emil Astalus:	thank you!
+05:14:24	Joseph Hailey:	Thanks 

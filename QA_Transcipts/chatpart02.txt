@@ -1,0 +1,32 @@
+03:02:55	Rodwane El idrissi:	Please i want to be sure to find the course recorded because it is very interresting , were is the complete link for the video? 
+03:04:05	Michael Shannon:	The Big Short
+03:04:33	Eian Clair:	Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'
+03:05:31	Rodwane El idrissi:	thank you very much
+03:06:08	Elizabeth Barton:	That is a great movie and does illustrate what Michael is talking about.  It's a bit scary that stuff really goes on.
+03:07:58	Eian Clair:	You are most welcome.
+03:18:15	Yong Gao:	I got kicked out around every 30 minutes :-(. do you know why?
+03:18:54	siza.zhanje:	try the zoom link provided.
+03:19:45	David Robichaud:	Your training site may have an idle timer. I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 Webinar ID: 977 1047 8524Passcode: 124410
+03:21:22	Yong Gao:	ok. thanks.
+03:25:58	David Robichaud:	If you muted Michael's shared should previously, you will need to enable it again to hear the audio from the video
+03:26:04	Michael Shannon:	This video is for my AWS Cloud Practitioner course by the way :)
+03:26:07	David Robichaud:	*shared sound
+03:42:50	Michael Shannon:	JSON
+03:45:20	Michael Shannon:	CSA
+03:45:49	Michael Shannon:	AWS Well-Architected
+03:46:19	Michael Shannon:	YAML
+03:50:06	Michael Shannon:	/16
+03:51:16	Michael Shannon:	172.31.0.0/16
+03:54:45	Michael Shannon:	/20
+03:55:52	Michael Shannon:	/24
+03:56:53	Michael Shannon:	/30
+04:02:04	Vishal Saheta:	how do i get the slides and recording for this training?
+04:03:50	David Robichaud:	You can download a PDF copy of the slides used in these sessions from the Resources drop-down menu of the Introduction to Cloud Computing Bootcamp channel in Percipio. You can also download the slides from the following GitHub repository:GitHub URL:https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing
+04:05:21	David Robichaud:	The recording will be available as a Replay video in the Watch tab of Introduction to Cloud Computing Bootcamp channel in Percipio.
+04:06:27	Pratik Asnani:	xan you pls explain again?
+04:06:28	Vishal Saheta:	Thank you. I don't see the channel. Is there a link for Introduction to Cloud Computing Bootcamp channel in Percipio?
+04:06:30	Pratik Asnani:	can*
+04:06:56	Pratik Asnani:	last slide api call
+04:08:14	David Robichaud:	I cannot provide links to your Percipio training site as I do not have credentials to log onto your site. You should be able to quickly locate the channel by searching for "Introduction to Cloud Computing Bootcamp"
+04:08:48	Sushant Mishra:	OK
+04:11:02	Michael Shannon:	MACsec

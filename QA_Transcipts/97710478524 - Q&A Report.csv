@@ -1,0 +1,260 @@
+﻿Question Report,
+Report Generated:,"Jun 24, 2022 9:13 AM"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+Introduction to Cloud Computing,977 1047 8524,"Jun 23, 2022 10:46 AM", 321, 68
+Question Details,
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,
+1,"Is this specific to any cloud vendor , or this is irrespective of AWS or Azure ?",Vikas Dhyani,'-,My demos will be in AWS,06/23/2022 11:53:40,06/23/2022 11:57:51,
+2,"Morning, do i need anything installed before hand?",siza.zhanje,'-,"No, you do not need to install anything for the bootcamp",06/23/2022 11:59:06,06/23/2022 12:00:58,
+3,Azure ,Rushikesh Deshpande,'-,,06/23/2022 12:00:22,,
+4,Please define cloud & cloud computing in simple words.,Anonymous Attendee,,"Here is a decent description from Microsoft:
+
+Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.",06/23/2022 12:06:34,06/23/2022 12:16:12,
+5,"Do we get any certificate for attending this , also where we can access the recording of this ",Sandeep Srirangam,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+
+Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'
+
+Please note, there are no certificates of completion provided for Bootcamps at this time.",06/23/2022 12:06:55,06/23/2022 12:11:19,
+6,"Hello Good day , Do we get any certificate for joining attending this, also where we can access the recording of this ",Sandeep Srirangam,'-,"No, we are not currently able to provide certificates of completion for the live sessions in Zoom. 
+
+The recordings will be available as Replay videos in the Watch tab of Introduction to Cloud Computing Bootcamp
+channel in Percipio.",06/23/2022 12:08:41,06/23/2022 12:10:30,
+7,can you give certificates for the registered candidates who are watching this via percipio ?,null null,'-,"No, we are not currently able to provide certificates of completion for exterally linked content such as these Zoom sessions.
+
+If you need a certificate, I would suggest running the Replay video in Percipio once it becomes available",06/23/2022 12:18:13,06/23/2022 12:19:44,
+8,Audio go stopped ,Gayatri,'-,"If you experience latency or connectivity issues during this session, try leaving and joining the session once more.
+
+If the issue continues to persist, please try leaving the session, but this time join the session from the direct Zoom link and Passcode listed below. This will allow you to connect to the session directly instead of joining through your learning platform, which may cause issues for some learners.
+
+Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09
+Webinar ID: 977 1047 8524
+Passcode: 124410",06/23/2022 12:20:32,06/23/2022 12:21:08,
+9,Hi,Gayatri,'-,,06/23/2022 12:21:26,,
+10,Could u plz check once,Gayatri,'-,,06/23/2022 12:21:37,,
+11,No Audio,Gayatri,'-,"If you experience degraded or distorted audio during this session, try leaving and joining the session once more.
+
+If the issue continues to persist, you may try dialing-in by phone for clear audio.
+
+Webinar ID: 
+977 1047 8524
+
+Passcode: 
+124410
+
+One tap mobile: 
+US: +16699006833,,97710478524#  or +12532158782,,97710478524# 
+
+Telephone: 
+*Please note, for higher quality, dial a number based on your current location:
+
+Dial(for higher quality, dial a number based on your current location):
+US: +1 669 900 6833  or +1 253 215 8782  or +1 301 715 8592  or +1 312 626 6799  or +1 346 248 7799  or +1 408 638 0968  or +1 646 876 9923 
+
+International numbers available: https://skillsoftbootcamp.zoom.us/u/auhaoUaPE",06/23/2022 12:21:47,06/23/2022 12:22:13,
+12,I can able to hear from start of session,Gayatri,'-,"Yes, the audio has been good for most. But if you do not have a good connection to Zoom or poor network bandwidth, audio issues may occur. Sometimes joining directly to Zoom instead of joining through your training site can help.
+
+https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 
+Webinar ID: 977 1047 8524
+Passcode: 124410",06/23/2022 12:22:35,06/23/2022 12:24:59,
+13,Thanks,Gayatri,'-,You are welcome,06/23/2022 12:25:38,06/23/2022 12:26:36,
+14,what are the Pre-requisites to start AWS free trail..,Imran mahamadajim Lamboo,'-,"I'm not aware of any pre-requisites for the free trial, but you can view what is included from the following URL:
+
+https://aws.amazon.com/free",06/23/2022 12:26:20,06/23/2022 12:30:33,
+15,'test',James Rapheal,'-,Your test worked!,06/23/2022 12:29:42,06/23/2022 12:31:12,
+16,"The title of class mentions ""Session 1"", will there be additional sessions that go into more detail?",Jasmine Perkins,'-,"This is only a single session Bootcamp; however, we have other Cloud-based bootcamps that you can attend, too. To get to the right area in Percipio to see a list of our bootcamps, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps",06/23/2022 12:32:46,06/23/2022 12:35:05,
+17,whats a hypervisor?,Anonymous Attendee,,"Basically, a hypervisor is software that creates and runs virtual machines (VMs)",06/23/2022 12:34:34,06/23/2022 12:36:43,
+18,What is the difference b/w Type 1 and Type 2 hypervisors ?,Anonymous Attendee,,live answered,06/23/2022 12:34:39,06/23/2022 12:36:08,
+18,What is the difference b/w Type 1 and Type 2 hypervisors ?,Anonymous Attendee,,"Michael answered your question live, but here is an article that provides some additional information on the differences:
+
+https://medium.com/teamresellerclub/type-1-and-type-2-hypervisors-what-makes-them-different-6a1755d6ae2c",06/23/2022 12:34:39,06/23/2022 12:39:57,
+19,Would a DOS box emulator be considered a kind of Type 2 hypervisor ?,Jonathan Gagnier,'-,"I don't think DOSBox allows you to create and manage virtual machines, so it wouldn't be considered a hypervisor. It is just an emulator that allows you to run software for MS-DOS compatible disk operating systems",06/23/2022 12:35:38,06/23/2022 12:45:52,
+20,Thank You,Jasmine Perkins,'-,You are welcome,06/23/2022 12:39:39,06/23/2022 12:40:11,
+21,where can I find the ppt or pdfs?,Anonymous Attendee,,"The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the 'Introduction to Cloud Computing Bootcamp' Channel in Percipio and select the Resources drop-down to locate the course files.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'
+
+Alternatively, you may obtain the course files online at GitHub: 
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing 
+
+Once on the GitHub page, download the course files by selecting ‘Code’ and then ‘Download ZIP’.",06/23/2022 12:41:37,06/23/2022 12:42:05,
+22,Thanks for the answer.,Jonathan Gagnier,'-,You are welcome,06/23/2022 12:47:45,06/23/2022 12:49:07,
+23,Thanks David ,Ravi Mohan Vadlamudi,'-,You are welcome,06/23/2022 12:49:50,06/23/2022 12:50:10,
+24,Thanks David,Ravi Mohan Vadlamudi,'-,,06/23/2022 12:50:07,,
+25,In IASS security and Firewall is not concern of CSP? it is related to USER only?,Shailendra Mishra,'-,"With IaaS, the CSP is responsible for security of the physical data centers and other hardware that power the infrastructure, sincluding the VMs, disks and networks. 
+
+Users would be responsible for securing their own data, operating systems and software that run their applications. This would include firewall configurations",06/23/2022 13:11:29,06/23/2022 13:17:41,
+26,"With the various cloud platforms available, which do you think is the best to use to learn on and offers the most features for learning for employment? What cloud certification (e.g., CompTIA, Amazon, or Google) should someone pursue first?",Michael Girgenti,'-,If your environment is heavily Microsoft use Azure. Everything else I would suggest the AWS Free Tier Model for 365 days.,06/23/2022 13:13:27,06/23/2022 13:16:39,
+27,"Hey Michael, my Percipio session times out periodically. After I re sign in, all Q&A & chat are gone. Will these be available in the recording?",siza.zhanje,'-,"We will provide a transcript of the chat and Q&A in addition to the video recording. I will have the transcipts uploaded to GitHub.
+
+GitHub URL:
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing  
+
+If you continue having connectivity issues with the session, I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.
+
+https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 
+Webinar ID: 977 1047 8524
+Passcode: 124410",06/23/2022 13:30:32,06/23/2022 13:37:55,
+28,"I've had to re sign in & re join. So if you answered my question, I can no longer see it. Please re post ",siza.zhanje,'-,"We will provide a transcript of the chat and Q&A in addition to the video recording. I will have the transcipts uploaded to GitHub.
+
+GitHub URL:
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing  
+
+If you continue having connectivity issues with the session, I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.
+
+https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 
+Webinar ID: 977 1047 8524
+Passcode: 124410",06/23/2022 13:33:38,06/23/2022 13:38:27,
+29,"Thank you for this course.. Do you offer more courses, if so, what would be the next logical course or courses? Thanks in advance",Anonymous Attendee,,"Michael does a bootcamp for AWS Cloud Practitioner, which would be a good follow-up to this one. I don't think we have a new live run specifically scheduled yet, but one will be added in the future. For now you can check out the Replays if you like.
+
+You can find this content in the AWS Cloud Practitioner Bootcamp channel in Percipio",06/23/2022 13:35:59,06/23/2022 13:42:28,
+30,"Community and Hybrid Cloud, both are same?",Anonymous Attendee,,"They are differnet models, with Community being the newest cloud model that is more of a varient of the private cloud. The following article outlines the differences the various models that you may find helpful:
+
+https://networkinterview.com/public-vs-private-vs-hybrid-vs-community-clouds/",06/23/2022 13:37:17,06/23/2022 13:50:34,
+31,thanks,siza.zhanje,'-,You are welcome,06/23/2022 13:38:13,06/23/2022 13:38:45,
+32,Thank you!,Anonymous Attendee,,You are welcome!,06/23/2022 13:46:01,06/23/2022 13:47:16,
+33,where can we download the presentation slide?,Janssen Christopher Zurbano,'-,"The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the 'Introduction to Cloud Computing Bootcamp' Channel in Percipio and select the Resources drop-down to locate the course files.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'
+
+Alternatively, you may obtain the course files online at GitHub: 
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing 
+
+Once on the GitHub page, download the course files by selecting ‘Code’ and then ‘Download ZIP’.",06/23/2022 13:47:47,06/23/2022 13:50:20,
+34,100% improved audio quality on Zoom. Thanks,siza.zhanje,'-,Great to hear!,06/23/2022 13:49:36,06/23/2022 13:50:45,
+35,"Michael , Do we have same session again  in future because few of my team member are not able to register and not able join this time.",null null,'-,"Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. 
+
+I don't see another instance of this Bootcamp scheduled in the near future, but you can always check our Bootcamp Calendar periodically to see if this bootcamp gets scheduled in at a later date. 
+
+Bootcamp Calendar: 
+http://calendar.skillsoft.com/",06/23/2022 13:50:21,06/23/2022 13:54:06,
+36,thank you,Janssen Christopher Zurbano,'-,You are welcome,06/23/2022 13:58:41,06/23/2022 14:01:21,
+37,Thank you,null null,'-,You are welcome,06/23/2022 14:09:07,06/23/2022 14:09:37,
+38,Could a debit card also work for creating a account?,siza.zhanje,'-,"Acceptable payment methods differ depending on your region. 
+
+You may find more information about the payment methods accepted for AWS online from the AWS website: 
+https://aws.amazon.com/premiumsupport/knowledge-center/accepted-payment-methods/",06/23/2022 14:10:32,06/23/2022 14:12:53,
+39,thanks,siza.zhanje,'-,You are welcome,06/23/2022 14:14:02,06/23/2022 14:16:49,
+40,Will there be a warning when you try to access things that are not in the free tier?,Glory Idem,'-,"My understanding is that you are not warned.
+
+https://aws.amazon.com/premiumsupport/knowledge-center/free-tier-charges/",06/23/2022 14:16:12,06/23/2022 14:19:51,
+40,Will there be a warning when you try to access things that are not in the free tier?,Glory Idem,'-,"I guess I was wrong, there are some email alerts.
+
+https://aws.amazon.com/about-aws/whats-new/2017/12/aws-free-tier-usage-alerts-automatically-notify-you-when-you-are-forecasted-to-exceed-your-aws-service-usage-limits/",06/23/2022 14:16:12,06/23/2022 14:21:44,
+41,thanks,Glory Idem,'-,You are welcome,06/23/2022 14:22:15,06/23/2022 14:22:48,
+42,Is Michael going through Azure account creation as well?,siza.zhanje,'-,"Michael mentioned that he would stick to using AWS as a demo example; however, we have a course that may be available to you in Percipio that walks you through creating an Azure account. You may find the account by visitng the Azure Architect channel or by searching Percipio for ""Create an Azure account"". 
+
+You can always get started using Azure for free with a free Azure account by visiting Microsoft's website at:
+https://azure.microsoft.com/en-ca/free/",06/23/2022 14:29:56,06/23/2022 14:38:22,
+43,yes he did. Thanks for reminder,siza.zhanje,'-,You are welcome,06/23/2022 14:41:44,06/23/2022 14:58:47,
+44,Could you pls explain last slide again?,Pratik Asnani,'-,An endpoint allows you to make an API request over the cloud providers network as opposed to sending packets over the public Internet through a gateway with a URL (https),06/23/2022 14:54:08,06/23/2022 14:59:46,
+45,Please give those Restful APIs for each provider again?,siza.zhanje,'-,"If they were provide on a slide, you can grab the slide deck here:
+
+
+GitHub URL:
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing",06/23/2022 14:56:33,06/23/2022 14:58:34,
+46,sure,siza.zhanje,'-,,06/23/2022 14:58:57,,
+47,Was the session 1 not  from 11:00 AM (EDT) - 2:00 PM (EDT) ?,Anonymous Attendee,,"The session date was set for Thursday June 23, 2022 11:00 AM - 2:00 PM EST (Eastern Time). Please note, Bootcamp sessions are recorded for your convenience.
+
+Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'",06/23/2022 15:00:33,06/23/2022 15:04:04,
+48,"Hi, when this training will be available to watch again in Percipio?",Hector Miguel Vera Tovar,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+
+Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'",06/23/2022 15:01:34,06/23/2022 15:04:25,
+49,"great, thanks for the training and the answer",Hector Miguel Vera Tovar,'-,You are very welcome Hector!,06/23/2022 15:08:04,06/23/2022 15:11:51,
+50,where can we watch the replay of this session,James Rapheal,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+
+Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To get to the right area in Percipio, please follow these steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'",06/23/2022 15:18:48,06/23/2022 15:19:17,
+51,"Thanks, once we watch the video we will eligible for a certificate is it?",James Rapheal,'-,"Yes, Percipio will automatically generate a certificate of completion for the Replay video. To access these certificates, click on the drop-down menu associated with your account name in Percipio and select Activity. For any course that you have completed, you should have the option to download a certificate of completion.",06/23/2022 15:20:29,06/23/2022 15:22:31,
+52,i mean the recorded session,James Rapheal,'-,,06/23/2022 15:20:47,,
+53,thanks,Pratik Asnani,'-,You are welcome,06/23/2022 15:22:06,06/23/2022 15:22:45,
+54,"Thanks, can i get transcript of this chat",James Rapheal,'-,"Yes, a transcript of the chat will be uploaded to the GitHub site",06/23/2022 15:23:35,06/23/2022 15:24:11,
+55,Kindly remind when the video will be available?,siza.zhanje,'-,"It will take some time after the session ends to have the raw video data encoded into a video we can upload to Percipio, but it is tpically available the next day, but could take up to 48 hours if there are any issues.
+
+It will be uploaded to the Watch tab of the Introduction to Cloud Computing Bootcamp channel in Percipio.",06/23/2022 15:24:49,06/23/2022 15:27:31,
+56,All good. Thanks again,siza.zhanje,'-,Glad to help,06/23/2022 15:29:31,06/23/2022 15:35:52,
+57,Where can we download the slides of this course?,Jorge11.Garcia@nttdata.com,'-,"You can download a PDF copy of the slides used in these sessions from the Resources drop-down menu of the Introduction to Cloud Computing Bootcamp channel in Percipio. You can also download the slides from the following GitHub repository:
+
+GitHub URL:
+https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing",06/23/2022 15:35:12,06/23/2022 15:35:39,
+58,Can we recover the data from Ephemeral storage when we switch ON the instance again after some time?,Zabiulla Khan,'-,No you cannot unfortunatley when using a CSP - unless you took snapshots.,06/23/2022 15:44:18,06/23/2022 16:02:19,
+59,Thank you very much! :D,Jorge11.Garcia@nttdata.com,'-,You are welcome,06/23/2022 15:50:45,06/23/2022 15:51:29,
+60,"What happens to all the data and infrastructure that you have in the cloud once, say the company goes bust/dissolves, or decide to move to a different cloud provider ?",Rowena Palima,'-,"That is a vulnerability of SaaS providers and its called ""vendor lock-in"". If that happens to Azure, AWS, Google, Oracle, or IBM then we having bigger global issues.",06/23/2022 15:50:48,06/23/2022 16:03:38,
+61,Thanks to both of you  for all your timely responses !,siza.zhanje,'-,You are very welcome!,06/23/2022 16:01:00,06/23/2022 16:01:18,
+62,Thank you.,Michael Girgenti,'-,"Thank you for joining us today! We hope you enjoyed the session. Have a great weekend. and take care. We would love to get your feedback on how we are doing so far. Please take a couple of minutes to fill out a brief session survey and let us know. 
+
+If you have requests for other topics or subject areas that you would like to see in future Bootcamps, please let us know in the survey. 
+
+We look forward to reviewing your feedback.
+
+Survey URL:
+https://surveys.skillsoft.com/jfe/form/SV_1Hb2mSZpvbE0vu6",06/23/2022 16:01:07,06/23/2022 16:01:50,
+63,Are we going to get accessto this recording?,Nupex Universal,'-,"Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'",06/23/2022 16:01:47,06/23/2022 16:02:02,
+64,great session,Sushant Mishra,'-,"We're happy to hear you enjoyed the session. Thank you for attending today. 
+
+We would love to get your feedback on how we are doing. Please take a couple of minutes to fill out a brief session survey and let us know. 
+
+If you have requests for other topics or subject areas that you would like to see in future Bootcamps, please let us know in the survey. 
+
+We look forward to reviewing your feedback.
+
+Survey URL:
+https://surveys.skillsoft.com/jfe/form/SV_1Hb2mSZpvbE0vu6",06/23/2022 16:02:05,06/23/2022 16:02:56,
+65,thank you,Nupex Universal,'-,You are welcome!,06/23/2022 16:02:59,06/23/2022 16:03:51,
+66,"Thank you Michael and team, amazing session :).",Ila David,'-,You are most welcome!,06/23/2022 16:04:25,06/23/2022 16:05:01,
+67,Where we can find the recording of the session and slides ?,Purbasha Chakrabarti,'-,"Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.
+
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+ 
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps'
+3. Choose 'Cloud Services' Bootcamps
+4. Then choose 'Introduction to Cloud Computing Bootcamp'",06/23/2022 16:05:04,06/23/2022 16:05:31,
+68,Okay. Interesting. Thank you,Rowena Palima,'-,You are welcome,06/23/2022 16:06:10,06/23/2022 16:06:34,

@@ -1,0 +1,112 @@
+01:12:57	Cassandra Whitebirch:	hi to all
+01:13:03	 :	Sure Thank you very much.
+01:13:03	Abhilash Manchala:	hi
+01:13:03	Ved Asole:	Hi
+01:13:06	null null:	hi
+01:13:07	Ashwini Kochale:	helllo
+01:13:09	Sireesh Madaram:	hii
+01:13:09	Edna Londono:	Good Morning 
+01:13:16	Sandeep Mewada:	HI
+01:13:22	Subhajeet Patra:	Hi
+01:13:22	Devarakonda Harikrishna:	Hi
+01:13:26	Anne Garcia:	good morning
+01:13:32	Purbasha Chakrabarti:	Hello All
+01:13:33	Veera Venkata Siva Sai Mahesh Padala:	Hello All, Good Morning
+01:13:34	Fernanda Goncalves Rios:	good morning
+01:13:34	Elasagaram Sandeep:	HI
+01:13:35	null null:	Hello
+01:13:39	Imran mahamadajim Lamboo:	Morning
+01:13:42	null null:	Hello All 
+01:13:42	Jay Jain:	Hi
+01:13:43	 :	I can't hear
+01:13:45	null null:	hello
+01:13:45	Andreas Schmal:	hi
+01:13:46	Gayatri Kolli:	Hi
+01:13:49	Manjunath S:	Hi
+01:13:49	Matthew Somers:	hello
+01:13:53	 :	how about others?
+01:13:55	Radhika Sharma null:	Hello
+01:13:58	null null:	hello
+01:13:58	Jasmine Perkins:	Hi, I just noticed this says session 1, will there be a part 2?
+01:14:00	Mahesh Katare:	hello
+01:14:00	Yoeut Sem:	hello 
+01:14:04	Joseph Hailey:	Hello
+01:14:07	Derek Mo:	Hi
+01:14:21	Saurabh Jha:	Hi
+01:14:23	Matthew Somers:	Michael, voice is crackily? or just me
+01:14:55	Grzegorz Dziubak:	for me is ok
+01:14:57	David Robichaud:	He is in Fredericton as well
+01:15:01	Siza Zhanje:	crackily for me too
+01:15:16	David Robichaud:	Audio is coming in loud and clear on my end
+01:15:19	Saurabh Jha:	All session will be continued here?
+01:15:46	David Robichaud:	Generally, exiting the session and rejoining will fix most audio issues. If you are still having sound quality issues or no audio, you can try dialing in by phone for audio: One tap mobile :  US: +16699006833,,97710478524#  or +12532158782,,97710478524# Or Telephone:  Dial(for higher quality, dial a number based on your current location):US: +1 669 900 6833  or +1 253 215 8782  or +1 301 715 8592  or +1 312 626 6799  or +1 346 248 7799  or +1 408 638 0968  or +1 646 876 9923 Webinar ID: 977 1047 8524International numbers available: https://skillsoftbootcamp.zoom.us/u/auhaoUaPE
+01:17:20	David Robichaud:	If you are having connectivity issues with the session, I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 Webinar ID: 977 1047 8524Passcode: 124410
+01:17:33	David Robichaud:	This may also help with audio issues
+01:18:34	Michael Shannon:	https://csrc.nist.gov/glossary and ISO/IEC 17788 “Cloud Computing – Overview and Vocabulary”
+01:18:36	Saurabh Jha:	How to add my team member in this session?
+01:18:44	Saurabh Jha:	By sharing the link?
+01:18:46	Saurabh Jha:	https://share.percipio.com/cd/buPnpie_C
+01:21:00	Dhruba Jyoti Dey:	username / Password 
+01:21:21	David Robichaud:	If they haven't registered, they would no longer be able to join via Percipio
+01:21:57	Rushikesh Deshpande:	can i  get the zoom link, as sometimes voice is cracking 
+01:22:05	David Robichaud:	I would suggest giving them the direct link
+01:22:06	David Robichaud:	https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 Webinar ID: 977 1047 8524Passcode: 124410
+01:22:27	David Robichaud:	https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 Webinar ID: 977 1047 8524Passcode: 124410
+01:23:37	Alhaz Shaikh:	can we get slides?
+01:23:46	Vishal Saheta:	can we get the slides and/or recording?
+01:25:09	 :	I have registered via Percipio but don't have access to the share
+01:25:24	Saurabh Jha:	Any other possible way to join other than percipio?
+01:25:47	Eian Clair:	The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the 'Introduction to Cloud Computing Bootcamp' Channel in Percipio and select the Resources drop-down to locate the course files.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'Alternatively, you may obtain the course files online at GitHub: https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing Once on the GitHub page, download the course files by selecting ‘Code’ and then ‘Download ZIP’.If you are unable to download the files from GitHub due to security restrictions on your device, we will also make the files available here in the chat panel for your convenience.
+01:26:03	Jonathan Gagnier:	If they are registered in the course Saurabh, they should see the course in CGI Academia / Percipio with a link.
+01:26:18	David Robichaud:	FYI: You can download a PDF copy of the slides used in these sessions from the Resources drop-down menu of the Introduction to Cloud Computing Bootcamp channel in Percipio. You can also download the slides from the following GitHub repository:GitHub URL:https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing
+01:26:38	null null:	is there any zoom link as i have joined from Percipio
+01:26:52	null null:	is my name visible - Atul Pimpalkar
+01:27:01	David Robichaud:	https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 Webinar ID: 977 1047 8524Passcode: 124410
+01:27:26	David Robichaud:	your name is displayed as null null
+01:28:17	null null:	i have joine zoom now..pl confirm on name visibility
+01:29:19	PimpalkarA:	Pl confirm now
+01:29:32	Eian Clair:	We are still seeing your name as Null Null at this time.
+01:29:39	Maneeha Shaikh:	Yes
+01:29:43	PimpalkarA:	tks
+01:29:44	Radhika Sharma null:	Yes
+01:29:44	Aadarshika Saxena:	yes, your name is visible
+01:29:47	Eian Clair:	Pimpalkar I can see your name.
+01:30:22	Thirumalasetty Bharathi:	how we can  join through zoom?
+01:30:51	Imran mahamadajim Lamboo:	Yes, Downloaded.. Thanks
+01:30:55	Eian Clair:	If you experience latency or connectivity issues during this session, try leaving and joining the session once more.If the issue continues to persist, please try leaving the session, but this time join the session from the direct Zoom link and Passcode listed below. This will allow you to connect to the session directly instead of joining through your learning platform, which may cause issues for some learners.Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09Webinar ID: 977 1047 8524Passcode: 124410
+01:31:49	Thirumalasetty Bharathi:	Thanks !!
+01:31:50	Arunkumar Murugesan:	can you please post the github links again .. after screen refresh lost it in chat
+01:33:08	Gayatri Kolli:	No able to get audio
+01:33:38	David Robichaud:	GitHub URL:https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing
+01:35:30	Arunkumar Murugesan:	thanks !
+01:35:39	Karthik Chandrasekaran:	What is the Zoom meeting passcode to join this via Zoom application?
+01:35:51	Eian Clair:	Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09Webinar ID: 977 1047 8524Passcode: 124410
+01:37:38	Karthik Chandrasekaran:	Thanks Eian..
+01:37:57	Eian Clair:	You are most welcome.
+01:41:26	Saurabh Jha:	Thanks My friend was able to Join through Zoom meeting.. One more question How can we later access/Download the recordings?
+01:41:54	Eian Clair:	Session replays are typically made available in the Bootcamp Channel within Percipio. The Bootcamp channel is titled 'Introduction to Cloud Computing Bootcamp', and the recordings will be available in the Watch tab within one to two business days after the session has taken place. You can always check the description for the session to confirm the date for that replay.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'
+01:42:24	Aadarshika Saxena:	The recordings will be available as Replay videos in the Watch tab of Introduction to Cloud Computing Bootcamp
+channel in Percipio
+01:42:33	107277_Pawan Kumar:	You can access the recording on Percipio platform by the next day usually
+01:42:45	Rushikesh Patange:	how to join through zoom?
+01:43:20	Eian Clair:	join the session from the direct Zoom link and Passcode listed below. This will allow you to connect to the session directly instead of joining through your learning platform, which may cause issues for some learners.Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09Webinar ID: 977 1047 8524Passcode: 124410
+01:44:48	Michael Shannon:	Linux KVM
+01:46:53	e1212025:	hi
+01:47:59	Imran mahamadajim Lamboo:	Vsphere..
+01:48:06	Michael Shannon:	VMware vSphere / ESXiMicrosoft Windows Server 2012 Hyper-V (or the free Hyper-V Server 2012)Xen / Citrix XenServerRed Hat Enterprise Virtualization (RHEV)KVM
+01:48:17	Michael Shannon:	VMware Workstation/Fusion/PlayerVMware ServerMicrosoft Virtual PCOracle VM VirtualBoxRed Hat Enterprise Virtualization
+01:48:42	Ravi Mohan Vadlamudi:	May I know difference  Type 1 & Type2 - Hypervisors ?
+01:50:23	Ravi Mohan Vadlamudi:	got it ,Thanks Shannon
+01:55:24	Ashwini Kochale:	Having trouble listening your voice.. 
+01:55:42	Eian Clair:	If you experience degraded or distorted audio during this session, try leaving and joining the session once more.If the issue continues to persist, you may try dialing-in by phone for clear audio.Webinar ID: 977 1047 8524Passcode: 124410One tap mobile: US: +16699006833,,97710478524#  or +12532158782,,97710478524# Telephone: *Please note, for higher quality, dial a number based on your current location:Dial(for higher quality, dial a number based on your current location):US: +1 669 900 6833  or +1 253 215 8782  or +1 301 715 8592  or +1 312 626 6799  or +1 346 248 7799  or +1 408 638 0968  or +1 646 876 9923 International numbers available: https://skillsoftbootcamp.zoom.us/u/auhaoUaPE
+01:56:21	Eian Clair:	Alternatively, join the session from the direct Zoom link and Passcode listed below. This will allow you to connect to the session directly instead of joining through your learning platform, which may cause issues for some learners.Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09Webinar ID: 977 1047 8524Passcode: 124410
+02:03:42	null null:	Can you again share zoom detail not able to hear on my Desktop
+02:04:04	Eian Clair:	join the session from the direct Zoom link and Passcode listed below. This will allow you to connect to the session directly instead of joining through your learning platform, which may cause issues for some learners.Zoom Link: https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09Webinar ID: 977 1047 8524Passcode: 124410
+02:19:08	Steve Haigh:	Zoom details:
+
+https://skillsoftbootcamp.zoom.us/j/97710478524?pwd=YmFZK3JMOTdScFg1b1psZDdVNWVoZz09 
+
+Webinar ID: 977 1047 8524
+Passcode: 124410
+02:20:22	Devarakonda Harikrishna:	how we can download the slides 
+02:21:30	Eian Clair:	The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the 'Introduction to Cloud Computing Bootcamp' Channel in Percipio and select the Resources drop-down to locate the course files.To get to the right area in Percipio, please follow these steps: 1. Log into Percipio2. Select 'Library' > 'Skillsoft Bootcamps'3. Choose 'Cloud Services' Bootcamps4. Then choose 'Introduction to Cloud Computing Bootcamp'Alternatively, you may obtain the course files online at GitHub: https://github.com/Skillsoft-Content/Introduction-to-Cloud-Computing Once on the GitHub page, download the course files by selecting ‘Code’ and then ‘Download ZIP’.
